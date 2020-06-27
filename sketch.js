@@ -89,14 +89,15 @@ function mouseDragged(){
 
 function mouseReleased(){
     slingshot.fly();
-    gameState = "onSling";
+    gameState = "launched";
 }
 
 function keyPressed(){
     if(keyCode === 32 && (bird.body.speed < 1)){
        bird.trajectory = [];  
        Matter.Body.setPosition(bird.body, {x:200, y: 50});
-       slingshot.attach(bird.body);           
+       slingshot.attach(bird.body);    
+       gameState = "onSling"       
     }
 }
 
