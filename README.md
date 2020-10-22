@@ -13,6 +13,6 @@ Press the space key for another chance.
 You can get upto 400 points by shooting both the pigs.
 
 ## How does the game end?
-If you get a maximum score of 400 or if your bird goes out of the screen, you don't get another chance to shoot the pigs, so you have to reload the game alotgether.
+If you get a maximum score of 400 or if your bird goes out of the screen, you don't get another chance to shoot the pigs, so you have to reload the game altogether.
 
 # Thank you for playing this game, I hope you enjoy it! 😊
